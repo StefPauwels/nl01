@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3de bachelor",
-    "currentPage": "page7.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 48,
+    "uniqCompNum": 50,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -1243,6 +1243,95 @@
           ],
           "_name": "content6",
           "_anchor": "content6-1b"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "3",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/platenhoes-4-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/platenhoes-1-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/platenhoes-2-v2-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/platenhoes-3-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text1": "",
+          "text2": "<p>STOLEN AND CONTAMINATED SONGS - COIL</p><p><br></p><p>Herwerkte versie van het album Stolen and contaminated songs van Coil.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1d"
         },
         {
           "_params": {

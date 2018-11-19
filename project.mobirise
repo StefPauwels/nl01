@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3de bachelor",
-    "currentPage": "page6.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -575,16 +575,16 @@
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#fff",
             "timeout": "3",
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-1935x2269.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -603,7 +603,7 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "BACKGROUND VIDEO",
                 "overlay": true,
@@ -614,16 +614,30 @@
               {
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "BOOTSTRAP SLIDER",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/logo-1935x2269.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
@@ -685,7 +699,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DRUK WERK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1.07rem;\">DIGITAAL WERK&nbsp;</span></p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DRUK WERK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp;</b><span style=\"font-size: 1.07rem;\"><b>DIGITAAL WERK</b>&nbsp;</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -871,13 +885,18 @@
             }
           },
           "title": "",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "Student grafisch ontwerp op Sint Lucas Gent. Streven naar de essentie van ontwerpen door het gebruik van zwart wit en primitieve design technieken.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-16"
+          "_anchor": "msg-box5-16",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -932,7 +951,7 @@
             "showTitle": true,
             "showSubTitle": false,
             "labelsColor": "#232323",
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -943,7 +962,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-weight: normal;\">CONTACT</span>",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-weight: normal;\">CONTACT</span><span style=\"font-weight: normal;\"><br></span>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT</a>",
           "form": {
@@ -1138,7 +1157,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DRUK WERK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1.07rem;\">DIGITAAL WERK&nbsp;</span></p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>DRUK WERK</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1.07rem;\">DIGITAAL WERK&nbsp;</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -1161,8 +1180,8 @@
             "timeout": "3",
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/krant.gif",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1176,7 +1195,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1210,6 +1229,20 @@
           ],
           "_name": "slider3",
           "_anchor": "slider3-19"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text1": "",
+          "text2": "<p>RONALD MC DONALD GAZETTE</p><p><br></p><p>Een experimentele krant met als onderwerp Donald Trump en Ronald MC Donald.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1b"
         },
         {
           "_params": {
